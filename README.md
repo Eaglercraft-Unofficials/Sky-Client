@@ -1,4 +1,4 @@
-# Quantum Launcher
+# Sky Client - Thanks to the-creative-master
 
 A self-contained browser launcher for the Eaglercraft archive. The launcher is
 one file: **`index.html` contains its markup, styles, JavaScript, embedded build
